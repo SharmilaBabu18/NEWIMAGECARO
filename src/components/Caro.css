@@ -1,0 +1,22 @@
+.con{
+    width:50%;
+    margin: 3rem auto;
+    padding: 1rem;
+    background-color: aquamarine;
+    border-radius: 8px;
+    text-align: center;
+}
+.btns{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+    gap:1rem;
+    margin-top: 1em;
+}
+.btns button{
+    padding:0.5rem 1rem;
+    border: 2px solid #ffffff;
+    background-color:rgba(0, 0, 0, 0.511);
+    color: #ffffff;
+    border-radius: 8px;
+}
